@@ -7,7 +7,13 @@ $(function(){
             word = $('#word');
             text = '';
 
+            title = el.find("title").text();
+
+
             descr = el.find("description").text();
+            shortdef = el.find('merriam\\:shortdef,shortdef').text();
+
+            document.title = title + ' - ' + shortdef + ' - ' + document.title;
 
             text += descr;
             text += el.find("enclosure").text();
