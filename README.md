@@ -19,8 +19,15 @@ DM [@glebis](https://twitter.com/glebis) or [create an issue](https://github.com
 ## Todo:
 
 [] Store word of the day locally
+
+[] Show short definition by default?
+
 [] Add a prompt asking for your own example sentense
+
 [] Navigate through old words of the day
+
 [] Link to WoD site
+
 [] Icons
+
 [] Convert it to a flashcard at some point?
